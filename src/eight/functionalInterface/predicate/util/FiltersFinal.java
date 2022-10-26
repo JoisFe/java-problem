@@ -1,4 +1,4 @@
-package eight.functionalInterface;
+package eight.functionalInterface.predicate.util;
 
 import eight.functionalInterface.predicate.Predicate;
 import java.util.ArrayList;

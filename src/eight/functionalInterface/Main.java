@@ -3,6 +3,9 @@ package eight.functionalInterface;
 import eight.functionalInterface.predicate.MelonPredicate;
 import eight.functionalInterface.predicate.impl.GacMelonPredicate;
 import eight.functionalInterface.predicate.impl.HugeMelonPredicate;
+import eight.functionalInterface.predicate.util.FiltersFinal;
+import eight.functionalInterface.predicate.util.FiltersPost;
+import eight.functionalInterface.predicate.util.FiltersPrev;
 import java.util.List;
 
 /**

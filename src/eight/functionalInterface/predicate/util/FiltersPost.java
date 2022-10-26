@@ -1,5 +1,6 @@
-package eight.functionalInterface;
+package eight.functionalInterface.predicate.util;
 
+import eight.functionalInterface.Melon;
 import eight.functionalInterface.predicate.MelonPredicate;
 import java.util.ArrayList;
 import java.util.List;

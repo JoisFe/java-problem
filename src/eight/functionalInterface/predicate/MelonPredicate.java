@@ -7,5 +7,6 @@ import eight.functionalInterface.Melon;
  * @since 1.0
  */
 public interface MelonPredicate {
+
     boolean test(Melon melon);
 }
